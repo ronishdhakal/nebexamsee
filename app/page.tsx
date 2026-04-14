@@ -12,6 +12,13 @@ import GradingSystemTable from "@/app/components/result/GradingSystemTable"
 export default function Home() {
   return (
     <>
+      <head>
+        <meta
+          name="google-site-verification"
+          content="zl1lk7HdPEXyyGlKuqZdHn3OClYRU2Fpouzunbl-_ms"
+        />
+      </head>
+
       <Navbar />
 
       <main className="w-full">
