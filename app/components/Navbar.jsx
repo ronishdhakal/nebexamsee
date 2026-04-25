@@ -20,6 +20,7 @@ export default function Navbar() {
             height={40}
             priority
             className="object-contain"
+            style={{ height: "auto" }}
           />
         </Link>
 

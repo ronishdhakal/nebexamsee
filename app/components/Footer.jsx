@@ -17,6 +17,7 @@ export default function Footer() {
                 height={180}
                 priority
                 className="object-contain"
+                style={{ height: "auto" }}
               />
             </Link>
 
